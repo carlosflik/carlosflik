@@ -5,7 +5,7 @@
 - 💻  I´m currently working with Power BI and data integration
 - 🌱  I'm currently learning Python
 - 🤝   I'm contributing knowledge of data analysis and data integration
-- 😄  Pronouns: Ele/dele
+- 😄  Pronouns: He
 
 🛰️ How to find me:
 <div>
