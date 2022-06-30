@@ -2,7 +2,7 @@
 
 ## My name is Carlos Augusto!
 
-- 💻  I´m currently working with Power BI and data integration
+- 💻  I´m currently working with Power Platform and data integration (Azure Devops)
 - 🌱  I'm currently learning Python
 - 🤝   I'm contributing knowledge of data analysis and data integration
 - 😄  Pronouns: He
